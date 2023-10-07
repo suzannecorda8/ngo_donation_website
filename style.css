@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+#connect{
+    color:black;
+    background-color: yellow;
+    padding: 10px 20px;
+    margin-bottom: -700px; 
+}
+
+/* Add a black background color to the top navigation */
